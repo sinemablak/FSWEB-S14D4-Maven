@@ -12,7 +12,6 @@ public class Chocolate extends  ProductForSale{
 
     @Override
     public void showDetails() {
-
-
+        System.out.println("Cocoa Percentage: " + cocoaPercentage);
     }
 }
